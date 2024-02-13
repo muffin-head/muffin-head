@@ -10,7 +10,9 @@
 
 ### 📖 About Me
 <div align="justify">
-In the vast universe of data, I'm Tanmay Kadam, your data Avenger. With ML as my hammer and stats as my shield, I battle the chaos of data realms, forging insights like crafting Infinity Stones. 🌠🔨.
+In the vast universe of data, I'm Tanmay Kadam, your data Avenger. With ML as my hammer and stats as my shield, I battle the chaos of data realms, forging insights like crafting Infinity Stones. 🌠🔨
+
+  
 </div>
 
 - 🔭 **Engaged In:** Master's dissertation on VAEs and GANs. [🔗 Explore My Work](https://github.com/muffin-head/VAE-dissertation)
