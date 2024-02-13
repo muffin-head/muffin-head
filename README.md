@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Salutations from the Code Realm! I am Tanmay Kadam 🌟</h1>
-<h2 align="center">🔮> Data Alchemist from India: Weaving Magic in Data Science and Engineering 🔮</h2>
+<h2 align="center">🔮 Data Alchemist from India: Weaving Magic in Data Science and Engineering 🔮</h2>
 <p align="center">From the heart of India to the realms of data and beyond!</p>
 
 <p align="center">
