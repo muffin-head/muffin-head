@@ -11,7 +11,7 @@
 ### 📖 About Me:
 I'm Tanmay Kadam, a fervent Data Scientist and Engineer, crafting solutions and unraveling the mysteries within data. With a blend of expertise in machine learning, statistical analysis, and a passion for continuous learning, I aim to bridge the gap between data and actionable insights.
 
-- 🔭 **Currently Engaging On:** My Master's dissertation on VAEs and GANs, exploring the cutting-edge of generative models. [Explore My Work](https://github.com/muffin-head/VAE-dissertation)
+- 🔭 **Currently Engaging On:** My Master's dissertation on VAEs and GANs. [Explore My Work](https://github.com/muffin-head/VAE-dissertation)
 - 👯 **Seeking Collaboration:** Keen on contributing to projects like the Netflix recommendation engine case study. [Join Me](https://github.com/muffin-head/netflixReccommendationEngine)
 - 🤝 **Looking for Support:** On a mission to leverage literature and Genomic data for cancer diagnosis. [Dive in Together](https://github.com/muffin-head/Cancer-caseStudy)
 - 📚 **Knowledge Sharing:** Regularly penning thoughts and findings on [Medium](https://medium.com/@tanmay.kdm).
