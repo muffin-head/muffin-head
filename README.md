@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [VAE's and GAN'S as my masters dissertation](https://github.com/muffin-head/VAE-dissertation)
 
-- 🌱 I’m currently learning **VAE and data mining for traditional methods of ML**
-
 - 👯 I’m looking to collaborate on [Netflix recommendation engine case study](https://github.com/muffin-head/netflixReccommendationEngine)
 
 - 🤝 I’m looking for help with [cancer diagnosis using literature and Genomic data](https://github.com/muffin-head/Cancer-caseStudy)
@@ -18,7 +16,9 @@
 - 📝 I regularly write articles on [https://medium.com/@tanmay.kdm](https://medium.com/@tanmay.kdm)
 
 - 💬 Ask me about **Statistics, Data science algorithm, Azure and Probability**
-
+  
+- 🌱 I’m currently learning **VAE and data mining for traditional methods of ML**
+  
 - 📫 How to reach me **tanmay.c.kadam@gmaill.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-j6mHpimYj6zvlAMYiPOnlHqqacJob2Y/view?usp=sharing](https://drive.google.com/file/d/1-j6mHpimYj6zvlAMYiPOnlHqqacJob2Y/view?usp=sharing)
