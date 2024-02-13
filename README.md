@@ -10,7 +10,7 @@
 
 ### 📖 About Me
 <div align="justify">
-<h2>In the vast universe of data, I'm Tanmay Kadam, your data Avenger. With ML as my hammer and stats as my shield, I battle the chaos of data realms, forging insights like crafting Infinity Stones. 🌠🔨</h2>
+<h3>In the vast universe of data, I'm Tanmay Kadam, your data Avenger. With ML as my hammer and stats as my shield, I battle the chaos of data realms, forging insights like crafting Infinity Stones. 🌠🔨</h3>
 <br>
 <br>
   
