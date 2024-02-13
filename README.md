@@ -1,7 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/martinheinz/martinheinz/master/wave.gif" width="30px">Salutations from the Code Realm! I am Tanmay Kadam</h1>
 <h2 align="center">🔮 Data Alchemist from India: Weaving Magic in Data Science and Engineering <br>
 Journeying from the heart of India to the realms of data and beyond!</h2>
-<p align="center">Journeying from the heart of India to the realms of data and beyond!</p>
 
 <p align="center">
   <a href="https://github.com/muffin-head"><img src="https://komarev.com/ghpvc/?username=muffin-head&style=flat-square&color=blueviolet" alt="profile views"></a>
