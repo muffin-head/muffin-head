@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/martinheinz/martinheinz/master/wave.gif" width="30px"> 🌟 Greetings from the Code Realm! I'm Tanmay Kadam 🌟</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/martinheinz/martinheinz/master/wave.gif" width="30px">Salutations from the Code Realm! I am Tanmay Kadam</h1>
 <h2 align="center">🔮 Data Alchemist from India: Weaving Magic in Data Science and Engineering 🔮</h2>
 <p align="center">Journeying from the heart of India to the realms of data and beyond!</p>
 
