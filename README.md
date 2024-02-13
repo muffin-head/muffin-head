@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muffin-head&label=Profile%20views&color=0e75b6&style=flat" alt="muffin-head" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muffin-head" alt="muffin-head" /></a> </p>
+
 
 - 🔭 I’m currently working on [VAE's and GAN'S as my masters dissertation](https://github.com/muffin-head/VAE-dissertation)
 
