@@ -10,7 +10,7 @@
 
 ### 📖 About Me
 <div align="justify">
-I'm Tanmay Kadam, a passionate Data Scientist and Engineer, crafting innovative solutions and demystifying the complexities of data. With a rich blend of expertise in machine learning, statistical analysis, and an insatiable thirst for knowledge, I strive to forge connections between data and actionable insights.
+In the vast universe of data, I'm Tanmay Kadam, your data Avenger. With ML as my hammer and stats as my shield, I battle the chaos of data realms, forging insights like crafting Infinity Stones. 🌠🔨.
 </div>
 
 - 🔭 **Engaged In:** Master's dissertation on VAEs and GANs. [🔗 Explore My Work](https://github.com/muffin-head/VAE-dissertation)
