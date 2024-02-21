@@ -11,14 +11,14 @@ Journeying from the heart of India to the realms of data and beyond!</h2>
 
 <h2 style="font-weight:bold;">📖 About Me </h2>
 <div align="justify">
-<h3 style="font-weight:bold;">In the vast universe of data, I'm your data Avenger. With ML as my hammer and stats as my shield, I battle the chaos of data realms, forging insights like crafting Infinity Stones. 🌠🔨</h3>
+<h3 style="font-weight:bold;">In the vast universe of data, I'm your data Avenger. With ML as my hammer and stats as my shield, I battle the chaos of data realms, forging insights like crafting Infinity Stones. 🌠</h3>
 </div>
 
 </div>
 
 - 🔭 **Engaged In:** Master's dissertation on VAEs and GANs. [🔗 Explore My Work](https://github.com/muffin-head/VAE-dissertation)
-- 👯 **Collaboration Call:** Eager to contribute to the Netflix recommendation engine case study. [🤝 Join Me](https://github.com/muffin-head/netflixReccommendationEngine)
-- 🤝 **Support Wanted:** Embarked on a mission to utilize literature and Genomic data for cancer diagnosis. [💡 Dive in](https://github.com/muffin-head/Cancer-caseStudy)
+- 👯 **Collaboration Call:** Eager to contribute to the Netflix recommendation engine case study. [ Join Me](https://github.com/muffin-head/netflixReccommendationEngine)
+- 🤝 **Support Wanted:** Embarked on a mission to utilize literature and Genomic data for cancer diagnosis. [ Dive in](https://github.com/muffin-head/Cancer-caseStudy)
 - 📚 **Sharing Insights:** Regularly writing on [Medium](https://medium.com/@tanmay.kdm).
 - 💼 **My Journey:** Discover my professional path. [📄 View My Resume](https://drive.google.com/file/d/1-j6mHpimYj6zvlAMYiPOnlHqqacJob2Y/view?usp=sharing)
 
