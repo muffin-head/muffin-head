@@ -3,10 +3,6 @@
 <h2 style="font-weight:bold;">🔮 Data Alchemist from India: Weaving Magic in Data Science and Engineering <br>
 Journeying from the heart of India to the realms of data and beyond!</h2>
 
-<p align="center">
-  <a href="https://github.com/muffin-head"><img src="https://komarev.com/ghpvc/?username=muffin-head&style=flat-square&color=blueviolet" alt="profile views"></a>
-</p>
-
 ---
 
 <h2 style="font-weight:bold;">📖 About Me </h2>
