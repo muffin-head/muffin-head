@@ -13,7 +13,7 @@ Journeying from the heart of India to the realms of data and beyond!</h2>
 </div>
 
 - 🔭 **Engaged In:** Master's dissertation on VAEs and GANs. [🔗 Explore My Work](https://github.com/muffin-head/VAE-dissertation)
-- 👯 **Collaboration Call:** Eager to contribute to the Netflix recommendation engine case study. [ Join Me](https://github.com/muffin-head/netflixReccommendationEngine)
+- 👯 **Collaboration Call:** Eager to contribute to the facebook competetion dataset social graph case study. [ Join Me](https://github.com/muffin-head/Facebook-casestudy)
 - 🤝 **Support Wanted:** Embarked on a mission to utilize literature and Genomic data for cancer diagnosis. [ Dive in](https://github.com/muffin-head/Cancer-caseStudy)
 - 📚 **Sharing Insights:** Regularly writing on [Medium](https://medium.com/@tanmay.kdm).
 - 💼 **My Journey:** Discover my professional path. [📄 View My Resume](https://drive.google.com/file/d/1-j6mHpimYj6zvlAMYiPOnlHqqacJob2Y/view?usp=sharing)
@@ -32,10 +32,6 @@ Journeying from the heart of India to the realms of data and beyond!</h2>
 - By night, I transform from a data scientist into Gotham's silent guardian. Yes, I am Batman!
 
 ---
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Let's Connect
 <p align="center">
