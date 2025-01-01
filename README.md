@@ -1,7 +1,8 @@
-<h2 align="center"> Salutations from the Code Realm! I am Tanmay Kadam!!!!</h1>
+<h2 align="center"> Salutations from the Code Realm! I am Tanmay Kadam!!!!</h2>
 <div align="center">
 <h3 style="font-weight:bold;">🔮 Data Alchemist from India: Weaving Magic in Data Science and Engineering <br>
-Journeying from the heart of India to the realms of data and beyond!</h2>
+Journeying from the heart of India to the realms of data and beyond!</h3>
+</div>
 
 ---
 
@@ -10,42 +11,70 @@ Journeying from the heart of India to the realms of data and beyond!</h2>
 <h3 style="font-weight:bold;"> In the vast universe of data, I'm your data Avenger. With ML as my hammer and stats as my shield, I battle the chaos of data realms, forging insights like crafting Infinity Stones. 🌠 </h3>
 </div>
 
-</div>
-
 - 🔭 **Engaged In:** Dissertation research on detecting sepsis in neonates using predictive modeling and data analysis.
-- 👯 **Collaboration Call:** Eager to contribute to the **Dynamic Retail Sales Platform** project. [Join Me](https://github.com/muffin-head/Retail_MLops_SystemDesign)
-- 🤝 **Support Wanted:** Embarked on a mission to optimize a time series forecasting project using CI/CD pipelines. [Dive In](https://github.com/muffin-head/Emergency-Call-Volume-Forecasting-System)
-- 📚 **Sharing Insights:** Regularly writing on [Medium](https://medium.com/@tanmay.kdm).
-- 💼 **My Journey:** Discover my professional path. [📄 View My Resume](https://drive.google.com/file/d/1-j6mHpimYj6zvlAMYiPOnlHqqacJob2Y/view?usp=sharing)
+- 👯 **Collaboration Call:** Currently working on advanced machine learning and MLOps pipelines for real-time data predictions.
+- 🤝 **Support Wanted:** Exploring time series forecasting and optimization techniques in production systems.
+- 📚 **Sharing Insights:** Passionate about teaching and sharing knowledge in machine learning and data science.
 
 ### 🌱 Currently Learning
-- Cutting-edge techniques in Variational Autoencoders (VAEs)
-- Enhancing traditional ML models with data mining methodologies
+- Advanced Variational Autoencoders (VAEs) and generative models
+- Best practices for scalable MLOps in cloud environments
 
 ### 💬 Ask Me About
-- Data Science algorithms, Azure Cloud Services, and the mysteries of Statistics and Probability
+- Machine Learning models, MLOps pipelines, and data-driven decision-making
 
 ### 📫 Reach Me
-- Via Email: **[tanmay.c.kadam@gmail.com](mailto:tanmay.c.kadam@gmail.com)**
+- Via Email: **tanmay.c.kadam@gmail.com**
 
 ### ⚡ Fun Fact
 - By night, I transform from a data scientist into Gotham's silent guardian. Yes, I am Batman!
 
 ---
 
-### 🌐 Let's Connect
-<p align="center">
-  <a href="https://twitter.com/muffinhead25"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/tanmaykadam2509"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://kaggle.com/muffinhead"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://instagram.com/muffinhead25_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://medium.com/@tanmay.kdm"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" alt="Medium"></a>
-</p>
+<h2 style="font-weight:bold;">📂 Projects and Research</h2>
+
+<h3 style="font-weight:bold;">STREAMFLOW - REAL-TIME DATA TO PREDICTIVE INSIGHTS</h3>
+<ul>
+  <li>Developed a fault-tolerant data streaming pipeline using Kafka, Faust, and Bash scripting with Zookeeper for reliability.</li>
+  <li>Built, registered, and deployed machine learning models using Databricks and MLflow, containerized via Azure Container Registry (ACR), and orchestrated on AKS with GitHub Actions and Terraform.</li>
+  <li>Streamed real-time data from EventHub to deployed models, ensuring low-latency predictions.</li>
+  <li>Deployed Prometheus and Grafana for monitoring system metrics and visualizing real-time performance insights.</li>
+</ul>
+
+<h3 style="font-weight:bold;">RNA-ISOFORM SPLICING PREDICTION</h3>
+<ul>
+  <li>Developed ML and GenAI models using PacBio RNA isoform data, integrating CI/CD workflows with GitHub Actions and AKS.</li>
+  <li>Used Azure Data Factory for orchestrating raw user inputs and storing processed data in Azure Data Lake.</li>
+  <li>Designed scalable solutions leveraging AKS, EventHub, and Data Lake for efficient data processing and predictions.</li>
+  <li>Integrated monitoring pipelines to track predictions and ensure reliability.</li>
+</ul>
+
+<h3 style="font-weight:bold;">END-TO-END ML PIPELINE FOR CONTENT RECOMMENDATION</h3>
+<ul>
+  <li>Implemented a machine learning pipeline for article recommendations using SVD and NMF techniques.</li>
+  <li>Productionized the recommendation engine with Streamlit for real-time interaction and improved user engagement.</li>
+</ul>
+
+<h3 style="font-weight:bold;">Research Dissertation</h3>
+<ul>
+  <li>Title: "Intelligent Monitoring and Early Disease Detection of Patients in NICUs"</li>
+  <li>Developed ML models to predict neonatal sepsis using ECG and vital sign data.</li>
+  <li>Engineered features from both tabular (vital signs) and transformed ECG data (GAF, TMF).</li>
+  <li>Designed custom architectures to improve predictive accuracy and enable real-time sepsis monitoring.</li>
+</ul>
+
+<h3 style="font-weight:bold;">Academic Internship</h3>
+<ul>
+  <li>Equitably.ai: Developed enterprise-grade AI-powered pricing models leveraging advanced ensemble techniques and time series analytics for revenue growth.</li>
+  <li>Platingnum: Built a proof of concept for an IoT project to track foot movements in videos, utilizing transfer learning for precise tracking and analysis.</li>
+</ul>
+
+---
 
 ### 💻 Languages and Tools
 <p align="center">
-  <!-- Icons for tools & technologies -->
-  <!-- Custom badges for tools and languages -->
+  <!-- Add relevant icons or tools -->
+  <strong>Python, SQL, Spark, Docker, Kubernetes, MLflow, Azure, Databricks, Prometheus, Grafana</strong>
 </p>
 
 <p align="center">
