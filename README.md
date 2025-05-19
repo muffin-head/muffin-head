@@ -1,83 +1,87 @@
-<h2 align="center"> Salutations from the Code Realm! I am Tanmay Kadam!!!!</h2>
-<div align="center">
-<h3 style="font-weight:bold;">🔮 Data Alchemist from India: Weaving Magic in Data Science and Engineering <br>
-Journeying from the heart of India to the realms of data and beyond!</h3>
-</div>
+<h1 align="center">👋 Greetings from the Data Frontier! I'm Tanmay Kadam</h1>
+<p align="center"><strong>Senior Machine Learning Engineer | MLOps Specialist | Azure & AWS Architect</strong></p>
+<p align="center">🧠 Building scalable, secure AI systems from hypothesis to production</p>
 
 ---
 
-<h2 style="font-weight:bold;">📖 About Me </h2>
-<div align="justify">
-<h3 style="font-weight:bold;"> In the vast universe of data, I'm your data Avenger. With ML as my hammer and stats as my shield, I battle the chaos of data realms, forging insights like crafting Infinity Stones. 🌠 </h3>
-</div>
+### 🚀 About Me
 
-- 🔭 **Engaged In:** Dissertation research on detecting sepsis in neonates using predictive modeling and data analysis.
-- 👯 **Collaboration Call:** Currently working on advanced machine learning and MLOps pipelines for real-time data predictions.
-- 🤝 **Support Wanted:** Exploring time series forecasting and optimization techniques in production systems.
-- 📚 **Sharing Insights:** Passionate about teaching and sharing knowledge in machine learning and data science.
+I’m a data alchemist on a mission to transform messy reality into reliable insights. With over 5 years of experience across healthcare, finance, and compliance, I specialize in:
 
-### 🌱 Currently Learning
-- Advanced Variational Autoencoders (VAEs) and generative models
-- Best practices for scalable MLOps in cloud environments
+- ✅ **Production-grade ML Systems** with full observability, privacy-awareness, and rollback safety.
+- 🌐 **Cloud-Native MLOps Pipelines** using Azure, Databricks, and AWS (SageMaker, Glue, EventHub, ADF).
+- 🧩 **Research-to-Deployment Workflows** with advanced time series models and clinical applications.
+- ⚙️ **GenAI + Infrastructure Automation**, building pipelines that talk, adapt, and recover.
 
-### 💬 Ask Me About
-- Machine Learning models, MLOps pipelines, and data-driven decision-making
-
-### 📫 Reach Me
-- Via Email: **tanmay.c.kadam@gmail.com**
-
-### ⚡ Fun Fact
-- By night, I transform from a data scientist into Gotham's silent guardian. Yes, I am Batman!
+By night, I decode ECG signals to detect sepsis. By day, I deploy GenAI workflows with drift monitoring, audit trails, and infrastructure-as-code.
 
 ---
 
-<h2 style="font-weight:bold;">📂 Projects and Research</h2>
+### 📌 What I’m Up To
 
-<h3 style="font-weight:bold;">STREAMFLOW - REAL-TIME DATA TO PREDICTIVE INSIGHTS</h3>
-<ul>
-  <li>Developed a fault-tolerant data streaming pipeline using Kafka, Faust, and Bash scripting with Zookeeper for reliability.</li>
-  <li>Built, registered, and deployed machine learning models using Databricks and MLflow, containerized via Azure Container Registry (ACR), and orchestrated on AKS with GitHub Actions and Terraform.</li>
-  <li>Streamed real-time data from EventHub to deployed models, ensuring low-latency predictions.</li>
-  <li>Deployed Prometheus and Grafana for monitoring system metrics and visualizing real-time performance insights.</li>
-</ul>
-
-<h3 style="font-weight:bold;">RNA-ISOFORM SPLICING PREDICTION</h3>
-<ul>
-  <li>Developed ML and GenAI models using PacBio RNA isoform data, integrating CI/CD workflows with GitHub Actions and AKS.</li>
-  <li>Used Azure Data Factory for orchestrating raw user inputs and storing processed data in Azure Data Lake.</li>
-  <li>Designed scalable solutions leveraging AKS, EventHub, and Data Lake for efficient data processing and predictions.</li>
-  <li>Integrated monitoring pipelines to track predictions and ensure reliability.</li>
-</ul>
-
-<h3 style="font-weight:bold;">END-TO-END ML PIPELINE FOR CONTENT RECOMMENDATION</h3>
-<ul>
-  <li>Implemented a machine learning pipeline for article recommendations using SVD and NMF techniques.</li>
-  <li>Productionized the recommendation engine with Streamlit for real-time interaction and improved user engagement.</li>
-</ul>
-
-<h3 style="font-weight:bold;">Research Dissertation</h3>
-<ul>
-  <li>Title: "Intelligent Monitoring and Early Disease Detection of Patients in NICUs"</li>
-  <li>Developed ML models to predict neonatal sepsis using ECG and vital sign data.</li>
-  <li>Engineered features from both tabular (vital signs) and transformed ECG data (GAF, TMF).</li>
-  <li>Designed custom architectures to improve predictive accuracy and enable real-time sepsis monitoring.</li>
-</ul>
-
-<h3 style="font-weight:bold;">Academic Internship</h3>
-<ul>
-  <li>Equitably.ai: Developed enterprise-grade AI-powered pricing models leveraging advanced ensemble techniques and time series analytics for revenue growth.</li>
-  <li>Platingnum: Built a proof of concept for an IoT project to track foot movements in videos, utilizing transfer learning for precise tracking and analysis.</li>
-</ul>
+- 🌡 Detecting **neonatal sepsis** in real-time NICU settings with custom DL models and biosignal processing (GAF/TMF).
+- 📈 Streaming 10,000+ financial signals for a **real estate investment anomaly detector** on AWS SageMaker.
+- ⚖️ Deploying a **GenAI compliance tool** using Claude (via Bedrock) to flag internal policy violations.
+- 🌪 Building **real-time MLOps platforms** with AKS, MLflow, and Prometheus for full-stack insight.
 
 ---
 
-### 💻 Languages and Tools
+### 🔧 Tech Toolbox
+
+- **Cloud:** Azure (ADF, AKS, ACR, Monitor), AWS (Glue, Lambda, S3, Redshift, SageMaker, Bedrock)
+- **ML & MLOps:** PyTorch, XGBoost, MLflow, Kubeflow, Terraform, Azure ML, Prometheus, Grafana
+- **Data Engineering:** Spark, SQL, Kafka, EventHub, Databricks, Qdrant, Feature Store (Feast)
+- **Monitoring & CI/CD:** GitHub Actions, Azure DevOps, AWS CodePipeline, Jenkins
+
+---
+
+### 📂 Featured Projects
+
+#### 🔬 SEPSIS DETECTION IN NICUs
+- Built an end-to-end ML system to detect early signs of neonatal sepsis using biosignal transformation (GAF, TMF).
+- Deployed on AKS with Databricks and EventHub for live inference + Grafana dashboards for clinicians.
+- Integrated AUC-ROC, calibration metrics, and GDPR compliance for hospital partners.
+
+#### 🌊 STREAMFLOW – ML IN MOTION
+- Kafka + Azure ML + Databricks = real-time ML inference engine.
+- Built a fault-tolerant MLOps pipeline with version control, rollback, and streaming model deployment.
+- Monitoring built with Prometheus + Grafana, complete with drift alerts.
+
+#### 🧠 GENAI COMPLIANCE INSIGHTS
+- Powered by Claude (Anthropic) + Bedrock for semantic analysis of internal comms.
+- Logged all LLM interactions with secure audit trails and business-rule tagging.
+
+#### 🏙️ REAL ESTATE SIGNAL MONITORING
+- 10K+ portfolio metrics parsed via AWS Glue + SageMaker + Lambda.
+- Used Isolation Forest + SHAP for explainable alerts on rent spikes and vacancy gaps.
+
+---
+
+### 📚 Currently Exploring
+
+- Generative AI in enterprise: Prompt tuning, vector search (Qdrant), and context window optimization.
+- Forecasting with VAEs & probabilistic models.
+- Domain-specific LLM fine-tuning with retrieval pipelines on Azure.
+
+---
+
+### 🧙‍♂️ Fun Fact
+
+In the data realm, I'm part Iron Man (automation), part Doctor Strange (predictive modeling), and part Alfred (quietly making everything run smoothly). And yes, I moonlight as Gotham's silent guardian. 🦇
+
+---
+
+### 📫 Let's Connect
+
+- 📧 tanmay.c.kadam@gmail.com  
+- 🌐 [Portfolio](https://tanmayckadam.wixsite.com/portfolio)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tanmaykadam2509)  
+- 🧪 [GitHub](https://github.com/muffin-head)  
+- 🧠 [Equitably.ai Team](https://equitably.ai/team/co-tanmay/)
+
+---
+
 <p align="center">
-  <!-- Add relevant icons or tools -->
-  <strong>Python, SQL, Spark, Docker, Kubernetes, MLflow, Azure, Databricks, Prometheus, Grafana</strong>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muffin-head&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muffin-head&theme=dark" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=muffin-head&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muffin-head&theme=dark" alt="GitHub Streak" />
 </p>
