@@ -1,4 +1,4 @@
-<h1 align="center">👋 Greetings from the Data Frontier! I'm Tanmay Kadam</h1>
+<h1 align="center">👋 Greetings from the Data Frontier!</h1>
 <p align="center"><strong>Senior Machine Learning Engineer | MLOps Specialist | Azure & AWS Architect</strong></p>
 <p align="center">🧠 Building scalable, secure AI systems from hypothesis to production</p>
 
@@ -71,10 +71,6 @@ In the data realm, I'm part Iron Man (automation), part Doctor Strange (predicti
 
 ---
 
-### 📫 Let's Connect
-
-- 📧 tanmay.c.kadam@gmail.com  
-- 🌐 [Portfolio](https://tanmayckadam.wixsite.com/portfolio)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tanmaykadam2509)  
 - 🧪 [GitHub](https://github.com/muffin-head)  
 - 🧠 [Equitably.ai Team](https://equitably.ai/team/co-tanmay/)
